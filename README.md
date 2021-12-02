@@ -9,3 +9,4 @@ I'm an undergraduate at NIBM
 - 📫 How to reach me: [Linkedin- @Kaveen](https://www.linkedin.com/in/kaveen-1998/)
 - ⚡ Fun fact: I love to travel and learn new things...!
 
+<img src="https://github-readme-stats.vercel.app/api?username=Kaveen-Madhusanka&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
