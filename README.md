@@ -3,7 +3,7 @@
 
 I'm a Full Stack Developer.
 - Former .Net Full Stack Developer [@DMS](https://www.dmsswe.com/);
-- -Former Full Stack Developer [@Cube36](https://www.cube360global.com/);
+- Former Full Stack Developer [@Cube360](https://www.cube360global.com/);
 
 - 🌱 I’m currently learning Angular and .NET Core 6 
 - 🥅 2021 Goals: Work hard to my career
