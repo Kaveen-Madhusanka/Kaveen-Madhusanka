@@ -1,13 +1,9 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-I'm a Full Stack Developer.
+I'm Kaveen Madhusanka from Colombo, Sri Lanka who is a Full Stack Developer.
 - Former .Net Full Stack Developer [@DMS](https://www.dmsswe.com/);
 - Former Full Stack Developer [@Cube360](https://www.cube360global.com/);
-
-
-<img align="right" alt="GIF" src="https://giphy.com/embed/SWoSkN6DxTszqIKEqv" width="500" height="320"/>
-
 - 🌱 I’m currently learning Angular and .NET Core 6 
 - 🥅 2021 Goals: Work hard to my career
 - 💬 Ask me about anything, I am happy to help anyone
