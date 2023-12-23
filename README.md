@@ -4,7 +4,7 @@
 I'm Kaveen Madhusanka from Colombo, Sri Lanka who is a Full Stack Developer.
 - Former .Net Full Stack Developer [@DMS](https://www.dmsswe.com/);
 - Former Full Stack Developer [@Cube360](https://www.cube360global.com/);
-- 🌱 I’m currently learning Angular and .NET Core 6 
+- 🌱 I’m currently learning Angular and .NET Core  
 - 🥅 Goals: Work hard to my career
 - 💬 Ask me about anything, I am happy to help anyone
 - 📫 How to reach me: [Linkedin- @Kaveen](https://www.linkedin.com/in/kaveen-1998/)
